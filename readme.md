@@ -11,7 +11,7 @@
 
 <h1 align="center">Tools In NodeJS</h1>
 <p align="center">
-    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>&nbsp; |
+    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>&nbsp; 
 </p>
 
 <h1 align="center">What I Want To Learn</h1>
