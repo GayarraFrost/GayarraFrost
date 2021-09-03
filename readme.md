@@ -1,8 +1,8 @@
 # Ohayo
 
-# !"𝐍𝐨𝐭.𝐅𝐮𝐛𝐮𝐤𝐢𝐢#0069
+# !"𝐍𝐨𝐭.𝐅𝐮𝐛𝐮𝐤𝐢𝐢#8714
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/626165240056250369.png">
+  <img src="https://discord.c99.nl/widget/theme-2/276357866217013249.png">
 </p><br/><br/><br/>
 
 <p align="center"> 
