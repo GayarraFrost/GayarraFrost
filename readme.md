@@ -20,7 +20,7 @@
 
 
 <div align="center">
-    <code><img height = "500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayarraFrost&theme=onedark&custom_title=What%20Language%20I%20Use%20?&title_color=000000&text_color=00C800&border_color=000000&bg_color=DEG,3f5efb,fc466b"><code>
+    <code><img height = "250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayarraFrost&theme=onedark&custom_title=What%20Language%20I%20Use%20?&title_color=000000&text_color=00C800&border_color=000000&bg_color=DEG,3f5efb,fc466b"><code>
 </div>
 
 
