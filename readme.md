@@ -20,7 +20,7 @@
 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayarraFrost&theme=onedark&custom_title=What%20Language%20I%20Use%20?&title_color=000000&text_color=00C800&border_color=000000&bg_color=DEG,7BF2E9,B65EBA"><br /><br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayarraFrost&theme=onedark&custom_title=What%20Language%20I%20Use%20?&title_color=000000&text_color=00C800&border_color=000000&bg_color=DEG,3f5efb,fc466b"><br /><br />
 </div>
 
 
