@@ -2,7 +2,7 @@
 # !"𝐍𝐨𝐭.𝐅𝐮𝐛𝐮𝐤𝐢𝐢 †#0069
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/859524525171671080.png">
+  <img src="https://discord.c99.nl/widget/theme-4/276357866217013249.png">
 </p><br/><br/><br/>
 
 <h1 align="center">LANGUAGE</h1>
