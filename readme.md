@@ -8,11 +8,6 @@
 <p align="center"> 
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp; 
 </p>
-
-<h1 align="center">Tools In NodeJS</h1>
-<p align="center">
-    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>&nbsp; 
-</p>
 <a href="https://github.com/GayarraFrost">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayarraFrost&theme=onedark&custom_title=What%20Language%20I%20Use%20?&title_color=000000&text_color=00C800&border_color=000000&bg_color=DEG,7BF2E9,B65EBA"/>
 </a>
