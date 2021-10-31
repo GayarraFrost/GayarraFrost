@@ -1,8 +1,8 @@
 
-# !"𝐍𝐨𝐭.𝐅𝐮𝐛𝐮𝐤𝐢𝐢 †#0069
+# !"𝐍𝐨𝐭.𝐅𝐮𝐛𝐮𝐤𝐢𝐢 †#6900
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/276357866217013249.png">
+  <img src="https://discord.c99.nl/widget/theme-2/276123274415702017.png">
 </p><br/><br/><br/>
 
 <h1 align="center">LANGUAGE</h1>
