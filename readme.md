@@ -28,3 +28,8 @@
     <br>Views Number: <br>
     <img src="https://profile-counter.glitch.me/GayarraFrost/count.svg" />
 </p>
+
+      Buy me a coffee
+BTC: bc1q7n98ztms6hvk5ndxxzdjh68tvfpvcw59a24ymt
+ETH: 0x57eB6B3d79BfdEf2c9d7736D43EDc49D41B0233C
+LTC: LMsdtiTj61xbqgeJVJ34GXSLC9tp99nfP4
