@@ -1,7 +1,7 @@
 # 𝐍𝐨𝐭.𝐅𝐮𝐛𝐮𝐤𝐢𝐢
 ## 𝐈 𝐚𝐦 𝐚𝐧 𝐚𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐍𝐨𝐝𝐞𝐉𝐒 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
 <div>
-    <img src="https://discord.c99.nl/widget/theme-2/276123274415702017.png" align="center" height="80" /><br>
+    <img src="https://discord.c99.nl/widget/theme-2/276357866217013249.png" align="center" height="80" /><br>
 </div><br>
 
 # 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬
