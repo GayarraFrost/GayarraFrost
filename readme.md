@@ -9,11 +9,11 @@
     <h2>𝐕𝐢𝐞𝐰 𝐂𝐨𝐮𝐧𝐭𝐞𝐫</h2>
     <img src="https://profile-counter.glitch.me/GayarraFrost/count.svg" height="52" />
     <h2>𝐂𝐨𝐦𝐦𝐨𝐧𝐥𝐲 𝐔𝐬𝐞𝐝 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬</h2>
-    <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayarraFrost&layout=compact&theme=midnight-purple&hide_border=true&hide_title=true" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotFubukIl&layout=compact&theme=midnight-purple&hide_border=true&hide_title=true" />
     <h2>𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬</h2>
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=GayarraFrost&theme=midnight-purple&hide_border=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=NotFubukIl&theme=midnight-purple&hide_border=true" />
     <h2>𝐂𝐨𝐨𝐥 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲</h2>
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=GayarraFrost&repo=TomoriProject&theme=midnight-purple&hide_border=true" />
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NotFubukIl&repo=TomoriProject&theme=midnight-purple&hide_border=true" />
 </div>
 
 # 𝐂𝐫𝐲𝐩𝐭𝐨 𝐀𝐝𝐝𝐫𝐞𝐬𝐬𝐞𝐬
