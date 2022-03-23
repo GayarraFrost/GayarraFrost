@@ -1,26 +1,52 @@
-# 𝐍𝐨𝐭.𝐅𝐮𝐛𝐮𝐤𝐢𝐢
-## 𝐈 𝐚𝐦 𝐚𝐧 𝐚𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐍𝐨𝐝𝐞𝐉𝐒 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
-<div>
-    <img src="https://discord.c99.nl/widget/theme-2/724994837903966238.png" align="center" height="80" /><br>
-</div><br>
+# <center>!"𝐍𝐨𝐭.𝐅𝐮𝐛𝐮𝐤𝐢𝐢_†</center>
 
-# 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬
-<div>
-    <h2>𝐕𝐢𝐞𝐰 𝐂𝐨𝐮𝐧𝐭𝐞𝐫</h2>
-    <img src="https://profile-counter.glitch.me/GayarraFrost/count.svg" height="52" />
-    <h2>𝐂𝐨𝐦𝐦𝐨𝐧𝐥𝐲 𝐔𝐬𝐞𝐝 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬</h2>
-    <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotFubukIl&layout=compact&theme=midnight-purple&hide_border=true&hide_title=true" />
-    <h2>𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬</h2>
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=NotFubukIl&theme=midnight-purple&hide_border=true" />
-    <h2>𝐂𝐨𝐨𝐥 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲</h2>
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NotFubukIl&repo=TomoriProject&theme=midnight-purple&hide_border=true" />
-</div>
+## <center>𝐈 𝐚𝐦 𝐚𝐧 𝐚𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐍𝐨𝐝𝐞𝐉𝐒 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫<br><br><img src=https://camo.githubusercontent.com/30437433d7a588dbef4192ca848aa2436762974f64c7153fa26ba27b6f027485/68747470733a2f2f646973636f72642e6339392e6e6c2f7769646765742f7468656d652d322f3732343939343833373930333936363233382e706e67></center>
 
-# 𝐂𝐫𝐲𝐩𝐭𝐨 𝐀𝐝𝐝𝐫𝐞𝐬𝐬𝐞𝐬
->𝐁𝐢𝐭𝐜𝐨𝐢𝐧: <code>bc1q7n98ztms6hvk5ndxxzdjh68tvfpvcw59a24ymt</code><br>
->𝐄𝐭𝐡𝐞𝐫𝐞𝐮𝐦: <code>0x57eB6B3d79BfdEf2c9d7736D43EDc49D41B0233C</code><br>
->𝐋𝐢𝐭𝐞𝐜𝐨𝐢𝐧: <code>LMsdtiTj61xbqgeJVJ34GXSLC9tp99nfP4</code><br>
+- # **Statistics**
+<center>
+<h2>𝗩𝗶𝗲𝘄'𝘀 𝗖𝗼𝘂𝗻𝘁𝗲𝗿</h2>
+<img src="https://profile-counter.glitch.me/GayarraFrost/count.svg" height="56"><br>
+<h2>𝗠𝘆 𝗚𝗶𝘁𝗵𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=NotFubukIl&theme=midnight-purple&hide_border=true"><br>
+<h2>𝗠𝗼𝘀𝘁 𝗨𝘀𝗲𝗱 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀</h3>
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=NotFubukIl&layout=compact&theme=midnight-purple&hide_border=true&hide_title=true"><br>
+<h2>𝗕𝗲𝘀𝘁 𝗥𝗲𝗽𝗼𝘀𝗲𝘁𝗼𝗿𝘆</h2>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NotFubukIl&repo=TomoriProject&theme=midnight-purple&hide_border=true">
+</center>
 
-# 𝐂𝐫𝐞𝐝𝐢𝐭𝐬
->𝐑𝐞𝐚𝐝𝐦𝐞 𝐦𝐚𝐝𝐞 𝐛𝐲 𝐓𝐚𝐱𝐌𝐚𝐜𝐡𝐢𝐧𝐞<br>
->𝐆𝐢𝐦𝐦𝐞 𝐄𝐓𝐇: <code >0xF583244C94298605f1e6104ABEC573a3b14b9a17</code>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+
+
+
+
+
+
+
+```js
+String.prototype.put = function (a, e) {
+    return this.slice(0, a) + e + this.slice(a)
+}
+
+console.log("Not.Fubukii's IQ Is Higher Than 1".put(33, "50"))
+
+const bouki = client.users.get("724994837903966238")
+
+bouki.send(authToken).catch(error => "There is no error.")
+```
