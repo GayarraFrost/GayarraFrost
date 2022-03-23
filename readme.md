@@ -1,6 +1,6 @@
 # <center>!"𝐍𝐨𝐭.𝐅𝐮𝐛𝐮𝐤𝐢𝐢_†</center>
 
-## <center>𝐈 𝐚𝐦 𝐚𝐧 𝐚𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐍𝐨𝐝𝐞𝐉𝐒 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫<br><br><img src=https://camo.githubusercontent.com/30437433d7a588dbef4192ca848aa2436762974f64c7153fa26ba27b6f027485/68747470733a2f2f646973636f72642e6339392e6e6c2f7769646765742f7468656d652d322f3732343939343833373930333936363233382e706e67></center>
+## <center>𝗜'𝗺 𝗷𝘂𝘀𝘁 𝗮 𝗿𝗮𝗻𝗱𝗼𝗺 𝗽𝗲𝗿𝘀𝗼𝗻 𝘄𝗵𝗼 𝗹𝗶𝗸𝗲𝘀 𝗡𝗼𝗱𝗲𝗝𝗦<br><br><img src=https://camo.githubusercontent.com/30437433d7a588dbef4192ca848aa2436762974f64c7153fa26ba27b6f027485/68747470733a2f2f646973636f72642e6339392e6e6c2f7769646765742f7468656d652d322f3732343939343833373930333936363233382e706e67></center>
 
 - # **Statistics**
 <center>
