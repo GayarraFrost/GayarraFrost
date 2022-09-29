@@ -15,14 +15,18 @@
 </h1>
 
 
-```js
-String.prototype.put = function (a, e) {
-    return this.slice(0, a) + e + this.slice(a)
-}
+```nim
+import os
 
-console.log("Not.Fubukii's IQ Is Higher Than 1".put(33, "50"))
+proc put(str: string, ins: int, what: string): string =
+    var a = str.substr(0, ins) & what & str.substr(ins)
+    return a
 
-const bouki = client.users.get("724994837903966238")
+echo put("!\"Dialz", 7, "_†#0069")
 
-bouki.send(authToken).catch(error => "There is no error.")
+proc exec(str: string): void =
+    var z: int = os.execShellCmd(str)
+
+exec("nim c -d:release ./main.nim")
+exec("start ./main.exe")
 ```
