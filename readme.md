@@ -53,13 +53,13 @@
 import os
 
 proc put(str: string, ins: int, what: string): string =
-var a = str.substr(0, ins) & what & str.substr(ins)
-return a
+    var a = str.substr(0, ins) & what & str.substr(ins)
+    return a
 
 echo put("!\"Dialz", 7, "_†#0069")
 
 proc exec(str: string): void =
-var z: int = os.execShellCmd(str)
+    discard os.execShellCmd(str)
 
 exec("nim c -d:release ./main.nim")
 exec("start ./main.exe")
