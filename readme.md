@@ -47,6 +47,7 @@
         <br><br><br><br><br><br><br><br><br><br>
         <h1 align="center"> - 𝐑𝐚𝐧𝐝𝐨𝐦 𝐂𝐨𝐝𝐞 - </h1>
     </center>
+</body>
 ```nim
 import os
 
@@ -62,4 +63,3 @@ var z: int = os.execShellCmd(str)
 exec("nim c -d:release ./main.nim")
 exec("start ./main.exe")
 ```
-</body>
