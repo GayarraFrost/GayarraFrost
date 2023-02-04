@@ -5,6 +5,7 @@
             <img src='https://lanyard.cnrad.dev/api/724994837903966238' align="right">
             <h3>
                 <br><br>
+                - Coding Services <br>
                 - 𝐅𝐫𝐞𝐧𝐜𝐡 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐩𝐞𝐫 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3 2"><path fill="#EC1920" d="M0 0h3v2H0z"/><path fill="#fff" d="M0 0h2v2H0z"/><path fill="#051440" d="M0 0h1v2H0z"/></svg> <br>
                 - 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭: 𝐕𝐢𝐝𝐞𝐨 𝐆𝐚𝐦𝐞𝐬 <br>
                 - 𝐓𝐡𝐢𝐬 𝐮𝐬𝐞𝐫 𝐢𝐬 𝐚 𝐫𝐞𝐠𝐢𝐬𝐭𝐞𝐫𝐞𝐝 𝐬𝐞𝐱 𝐨𝐟𝐟𝐞𝐧𝐝𝐞𝐫. <br>
