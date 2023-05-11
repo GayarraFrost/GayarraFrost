@@ -21,7 +21,7 @@
                     align="left" weight="200" height="200">
                 - <a href='https://discord.gg/6F5tEVfYKMn'>𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐒𝐞𝐫𝐯𝐞𝐫</a> <br>
                 - <a href='https://www.youtube.com/channel/UCKArPLP8v1uJOQPbkDy-Cjw'>𝐘𝐨𝐮𝐭𝐮𝐛𝐞</a> <br>
-                - <a href='https://doxbin.org/upload/AzukioLeGrosPedo'>𝐃𝐨𝐱𝐁𝐢𝐧</a> <br>
+                <!-- - <a href='https://doxbin.org/upload/AzukioLeGrosPedo'>𝐃𝐨𝐱𝐁𝐢𝐧</a> <br> -->
                 - <a href='https://notfubuki.xyz'>𝐖𝐞𝐛𝐒𝐢𝐭𝐞</a> <br>
                 - <a href='https://fatnig.ga'> 😀𝐯𝐞𝐫𝐲 𝐜𝐨𝐨𝐥 𝐰𝐞𝐛𝐬𝐢𝐭𝐞 😀</a> <br>
                 - <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>𝐀𝐥𝐥𝐚𝐡</a> <br>
