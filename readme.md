@@ -2,7 +2,7 @@
     <center>
         <h1 align="center"> - 𝐍𝐨𝐭𝐅𝐮𝐛𝐮𝐤𝐢𝐢'𝐬 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 - </h1>
         <div align="center">
-            <img src='https://lanyard.cnrad.dev/api/724994837903966238' align="right">
+            <img src='https://lanyard.cnrad.dev/api/1097798224917569567' align="right">
             <h3>
                 <br><br>
                 - Coding Services <br>
